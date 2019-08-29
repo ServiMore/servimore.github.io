@@ -32,3 +32,9 @@ h1 {
 .card-img{
 	height: 200px;
 }
+
+.info {
+	margin: 10px;
+	background-color: #EEE;
+	box-shadow: 0 0 10px;
+}
